@@ -43,6 +43,7 @@
 - 专题：[[02_Core_Concepts/第三章/3.3 V(s)：价值函数与贝尔曼方程]]
 - 专题：[[02_Core_Concepts/第三章/3.4 DP、MC、TD：三种价值估计方法]]
 - 专题：[[02_Core_Concepts/第三章/3.5 从 Q 到 Q-Learning]]
+- 专题：[[02_Core_Concepts/第三章/3.6 从价值到策略]]
 
 #### 第四章
 
